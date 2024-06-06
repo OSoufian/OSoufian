@@ -32,7 +32,7 @@ Au plaisir d'échanger avec vous !
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs-blue)
 
 **🐱 Mes données GitHub** 
 
@@ -104,5 +104,5 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2024 00:59:13 UTC
+ Last Updated on 06/06/2024 00:59:20 UTC
 <!--END_SECTION:waka-->
