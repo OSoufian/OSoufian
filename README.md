@@ -38,8 +38,6 @@ Au plaisir d'échanger avec vous !
 
 > 📦 207.4 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 33 Contributions en 2024
- > 
 > 🚫 N'a pas choisi d'embaucher
  > 
 > 📜 25 dépots publiques 
@@ -106,5 +104,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2024 00:59:07 UTC
+ Last Updated on 21/06/2024 00:59:42 UTC
 <!--END_SECTION:waka-->
