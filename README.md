@@ -32,13 +32,11 @@ Au plaisir d'échanger avec vous !
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2056%20mins-blue)
 
 **🐱 Mes données GitHub** 
 
 > 📦 223.6 kB Utilisés sur le stockage de GitHub 
- > 
-> 🏆 39 Contributions en 2024
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -73,16 +71,17 @@ Dimanche                 97 commits          ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+PHP                      1 hr 31 mins        ██████████████████████░░░   87.05 % 
+JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
+taleen                   1 hr 45 mins        █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
@@ -98,5 +97,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2024 01:02:01 UTC
+ Last Updated on 10/07/2024 01:02:41 UTC
 <!--END_SECTION:waka-->
