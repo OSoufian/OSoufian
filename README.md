@@ -73,20 +73,16 @@ Dimanche                 97 commits          ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-PHP                      5 hrs 42 mins       ████████████████████████░   96.39 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  5 hrs 55 mins       █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-taleen                   5 hrs 44 mins       ████████████████████████░   97.09 % 
-taleen3                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Windows                  5 hrs 55 mins       █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en Python** 
@@ -102,5 +98,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2024 00:56:52 UTC
+ Last Updated on 18/09/2024 01:07:50 UTC
 <!--END_SECTION:waka-->
