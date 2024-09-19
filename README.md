@@ -32,7 +32,7 @@ Au plaisir d'échanger avec vous !
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2045%20mins-blue)
 
 **🐱 Mes données GitHub** 
 
@@ -73,16 +73,18 @@ Dimanche                 97 commits          ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+Terraform                32 mins             █████████████████████████   99.68 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+HCL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
+Nouveau dossier (4)      33 mins             █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en Python** 
@@ -98,5 +100,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2024 01:07:50 UTC
+ Last Updated on 19/09/2024 01:09:08 UTC
 <!--END_SECTION:waka-->
