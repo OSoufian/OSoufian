@@ -38,8 +38,6 @@ Au plaisir d'échanger avec vous !
 
 > 📦 225.6 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 39 Contributions en 2024
- > 
 > 🚫 N'a pas choisi d'embaucher
  > 
 > 📜 27 dépots publiques 
@@ -100,5 +98,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2024 01:10:11 UTC
+ Last Updated on 06/10/2024 01:15:45 UTC
 <!--END_SECTION:waka-->
