@@ -32,6 +32,8 @@ Au plaisir d'échanger avec vous !
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2023%20mins-blue)
+
 **🐱 Mes données GitHub** 
 
 > 📦 226.0 kB Utilisés sur le stockage de GitHub 
@@ -44,6 +46,45 @@ Au plaisir d'échanger avec vous !
  > 
 > 🔑 13 dépots privés 
  > 
+**Je suis un 🐤 du matin** 
+
+```text
+🌞 Matin                  93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+🌆 Journée                527 commits         ████████████████░░░░░░░░░   62.22 % 
+🌃 Soirée                 206 commits         ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+🌙 Nuit                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+```
+📅 **Je suis le plus productif le Mercredi** 
+
+```text
+Lundi                    115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Mardi                    118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Mercredi                 149 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Jeudi                    128 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Vendredi                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Samedi                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Dimanche                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+```
+
+
+📊 **Cette semaine, je passe mon temps sur** 
+
+```text
+🕑︎ Fuseau horaire: Europe/Paris
+
+💬 Langages: 
+Aucune activité enregistrée cette semaine
+
+🔥 Éditeurs de code: 
+Aucune activité enregistrée cette semaine
+
+🐱‍💻 Projets: 
+Aucune activité enregistrée cette semaine
+
+💻 Système d'exploitation: 
+Aucune activité enregistrée cette semaine
+```
+
 **Je code principalement en JavaScript** 
 
 ```text
@@ -57,5 +98,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 01:28:09 UTC
+ Last Updated on 02/12/2024 01:18:58 UTC
 <!--END_SECTION:waka-->
