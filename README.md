@@ -32,13 +32,13 @@ Au plaisir d'échanger avec vous !
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2057%20mins-blue)
 
 **🐱 Mes données GitHub** 
 
 > 📦 226.0 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 0 Contributions en 2024
+> 🏆 39 Contributions en 2024
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -73,16 +73,20 @@ Dimanche                 97 commits          ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+PHP                      1 hr 20 mins        █████████████░░░░░░░░░░░░   53.45 % 
+Bash                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+JSON                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+SQL                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
+taleen                   2 hrs 30 mins       █████████████████████████   99.73 % 
+taleen3                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en JavaScript** 
@@ -98,5 +102,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2024 01:17:59 UTC
+ Last Updated on 18/12/2024 01:14:55 UTC
 <!--END_SECTION:waka-->
