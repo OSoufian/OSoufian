@@ -73,20 +73,16 @@ Dimanche                 97 commits          ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-PHP                      1 hr 25 mins        ███████████████████░░░░░░   74.81 % 
-Bash                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-taleen                   1 hr 52 mins        ████████████████████████░   97.91 % 
-taleen3                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en JavaScript** 
@@ -102,5 +98,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2025 01:12:25 UTC
+ Last Updated on 12/01/2025 01:18:47 UTC
 <!--END_SECTION:waka-->
