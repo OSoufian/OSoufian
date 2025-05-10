@@ -32,11 +32,13 @@ Au plaisir d'échanger avec vous !
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2027%20mins-blue)
 
 **🐱 Mes données GitHub** 
 
 > 📦 226.0 kB Utilisés sur le stockage de GitHub 
+ > 
+> 🏆 1 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -104,5 +106,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2025 01:21:14 UTC
+ Last Updated on 10/05/2025 01:18:30 UTC
 <!--END_SECTION:waka-->
