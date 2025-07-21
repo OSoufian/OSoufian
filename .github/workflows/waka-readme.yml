@@ -16,5 +16,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: 'Update stats by Dev Metrics'
           SHOW_PROFILE_VIEWS: 'False'
+          SHOW_LANGUAGE_STATS: 'False'
           LOCALE: 'fr'
           SHOW_LOC_CHART: 'False'
