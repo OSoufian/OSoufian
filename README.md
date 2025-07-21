@@ -6,7 +6,7 @@
 
 Bienvenue sur mon profil GitHub !
 
-Je suis Soufian Oualla, un développeur web de 23 ans. Actuellement, je suis étudiant en 4ème année à SUPINFO, une école d'informatique. De plus, je suis en également en alternance chez Taleen, où je développe mes compétences dans le domaine du développement web.
+Je suis Soufian Oualla, un développeur web de 23 ans. Actuellement, je suis étudiant en 5ème année à SUPINFO, une école d'informatique. De plus, je suis en également en alternance chez Taleen, où je développe mes compétences dans le domaine du développement web.
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou opportunité professionnelle.
 
