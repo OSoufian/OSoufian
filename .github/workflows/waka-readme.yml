@@ -1,5 +1,4 @@
 name: Waka Readme
-
 on:
   schedule:
     # Runs at 12am IST
@@ -20,3 +19,4 @@ jobs:
           LOCALE: 'fr'
           SHOW_LOC_CHART: 'False'
           SHOW_DAYS_OF_WEEK: 'False'
+          SHOW_THIS_WEEK_I_SPEND_MY_TIME_ON: 'False'
