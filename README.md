@@ -32,8 +32,6 @@ Au plaisir d'échanger avec vous !
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%208%20mins-blue)
-
 **🐱 Mes données GitHub** 
 
 > 📦 247.6 kB Utilisés sur le stockage de GitHub 
@@ -47,5 +45,5 @@ Au plaisir d'échanger avec vous !
 > 🔑 15 dépots privés 
  > 
 
- Last Updated on 19/09/2025 01:17:25 UTC
+ Last Updated on 20/09/2025 01:13:41 UTC
 <!--END_SECTION:waka-->
